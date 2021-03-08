@@ -1,4 +1,4 @@
-Realme C3/Realme Narzo 10A Device Tree - RMX2020/RMX2027
+CipherOS device tree for Realme C3/10A - RMX2020/RMX2027
 ================================================================
 
 
