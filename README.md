@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/47187468/126728261-fe3946a0-8cc1-4b97-8c4a-af6b827cc85c.png)
+
+
 CipherOS device tree for Realme C3/10A - RMX2020/RMX2027
 ================================================================
 
@@ -18,4 +21,3 @@ Rear Camera  | Dual : 13 MP; 2MP(depth); 2MP(Macro- only Narzo 10A and C3 Global
 Front Camera | Single: 5 MP
 Release Month | 2020, February 14 | 2020, May 22 
 
-![Realme C3](https://fdn2.gsmarena.com/vv/pics/realme/realme-c3-2020-2.jpg "Realme C3")
