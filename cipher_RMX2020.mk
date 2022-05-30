@@ -26,6 +26,7 @@ TARGET_BOOT_ANIMATION_RES := 720
 # CipherOS additions
 CIPHER_OFFICIAL := true
 CIPHER_MAINTAINER := sarthakroy2002
+TARGET_FACE_UNLOCK_SUPPORTED := true
 
 # Build info
 BUILD_FINGERPRINT := "google/coral/coral:12/SP2A.220505.002/8353555:user/release-keys"
