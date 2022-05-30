@@ -1,14 +1,26 @@
 [
   {
-    "repository": "android_vendor_realme_RMX2020",
-    "target_path": "vendor/realme/RMX2020"
+    "remote": "github",
+    "repository": "ArrowOS-Devices/android_vendor_realme_RMX2020",
+    "target_path": "vendor/realme/RMX2020",
+    "revision": "arrow-12.1"
   },
   {
-    "repository": "android_kernel_realme_RMX2020",
-    "target_path": "kernel/realme/RMX2020"
+    "remote": "github",
+    "repository": "ArrowOS-Devices/android_kernel_realme_RMX2020",
+    "target_path": "kernel/realme/RMX2020",
+    "revision": "arrow-12.1"
   },
   {
-    "repository": "android_vendor_realme_RMX2020-ims",
-    "target_path": "vendor/realme/RMX2020-ims"
+    "remote": "github",
+    "repository": "ArrowOS-Devices/android_vendor_realme_RMX2020-ims",
+    "target_path": "vendor/realme/RMX2020-ims",
+    "revision": "arrow-12.1"
+  },
+  {
+    "remote": "github",
+    "repository": "ArrowOS-Devices/android_packages_apps_GCamGOPrebuilt",
+    "target_path": "packages/apps/GCamGOPrebuilt",
+    "revision": "arrow-12.1"
   }
 ]
