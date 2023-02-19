@@ -1,5 +1,6 @@
 #
 # Copyright (C) 2018-2022 ArrowOS
+# Copyright (C) 2023 The CipherOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #

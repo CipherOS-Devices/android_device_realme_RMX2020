@@ -1,5 +1,6 @@
 #
 # Copyright (C) 2018-2022 ArrowOS
+# Copyright (C) 2023 The CipherOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -70,8 +71,6 @@ PRODUCT_COPY_FILES += \
     frameworks/av/services/audiopolicy/config/r_submix_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/r_submix_audio_policy_configuration.xml \
     frameworks/av/services/audiopolicy/config/usb_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/usb_audio_policy_configuration.xml \
     frameworks/av/services/audiopolicy/config/default_volume_tables.xml:$(TARGET_COPY_OUT_VENDOR)/etc/default_volume_tables.xml
-
-TARGET_EXCLUDES_AUDIOFX := true
 
 # APN
 PRODUCT_COPY_FILES += \
@@ -194,10 +193,6 @@ PRODUCT_PACKAGES += \
 # Lights
 PRODUCT_PACKAGES += \
     android.hardware.light-service.RMX2020
-
-# LiveDisplay
-PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.0-service-RMX2020
 
 # Media
 PRODUCT_COPY_FILES += \

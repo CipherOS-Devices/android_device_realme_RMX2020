@@ -1,5 +1,6 @@
 #
 # Copyright (C) 2018-2022 ArrowOS
+# Copyright (C) 2023 The CipherOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
@@ -165,6 +166,7 @@ DEVICE_MANIFEST_FILE := $(DEVICE_PATH)/configs/manifests/manifest.xml
 DEVICE_MATRIX_FILE := $(DEVICE_PATH)/configs/manifests/compatibility_matrix.xml
 ODM_MANIFEST_SKUS += nfc
 ODM_MANIFEST_NFC_FILES := $(DEVICE_PATH)/configs/manifests/manifest_nfc.xml
+DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE :=  vendor/cipher-extra/hidl/oplus_framework_compatibility_matrix.xml
 
 # Init
 TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):libinit_RMX2020
